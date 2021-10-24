@@ -22,6 +22,8 @@
 - [Redux Toolkit](https://www.youtube.com/watch?v=jOTMloR0GMY&list=PLgLaziU_e4WxNhdORpHfnYnypRbtGiIVh)
 - [JavaScript](https://www.youtube.com/watch?v=ihNGWSrKzr0&list=PLgLaziU_e4WzCjw0OyFpUYOR_WzgX_iIA)
 - [ES6](https://www.youtube.com/watch?v=DYBpclZHQzc&list=PLgLaziU_e4Wzkj3fwb8neWMnPTzwRs2wk)
+- [Build Programming Logic with React JS](https://www.youtube.com/watch?v=1Dqe-GIa2U8&list=PLgLaziU_e4WzhTQ9WgfkWjHOM-6QwPJp2)
+- [React Router Dom](https://www.youtube.com/watch?v=eDGyGrlz8lo&list=PLgLaziU_e4Wx5uiAX8B1rXz3EHsUoulMW)
 
 
 [![Bulbul's GitHub stats](https://github-readme-stats.vercel.app/api?username=bulbulahmed9&count_private=true&show_icons=true&theme=dracula)](https://github.com/bulbulahmed9)
