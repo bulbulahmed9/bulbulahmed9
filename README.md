@@ -10,8 +10,7 @@
 
 ### Connect with me:
 
-[youtube](https://www.youtube.com/mdbulbulahmed)
-
-[linkedin](https://www.linkedin.com/in/bulbulahmed9/)
+[Youtube](https://www.youtube.com/mdbulbulahmed)
+[Linkedin](https://www.linkedin.com/in/bulbulahmed9/)
 
 [![Bulbul's GitHub stats](https://github-readme-stats.vercel.app/api?username=bulbulahmed9&count_private=true&show_icons=true&theme=dracula)](https://github.com/bulbulahmed9)
