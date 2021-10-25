@@ -13,7 +13,7 @@
 - [Youtube](https://www.youtube.com/mdbulbulahmed)
 - [Linkedin](https://www.linkedin.com/in/bulbulahmed9/)
 
-### 📺 Latest YouTube Videos
+### 📺 Latest YouTube Courses
 
 
 - [React JS](https://www.youtube.com/watch?v=8reMA_HrrM8&list=PLgLaziU_e4WxVeOgq2DiCtdJ5jiLpZ91o)
