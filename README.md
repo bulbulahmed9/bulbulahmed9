@@ -2,11 +2,11 @@
 
 ## I'm a Developer, and Content Creator!!
 
-- 🔭 I launched my React JS course recently : [React JS Tutorial](https://www.youtube.com/watch?v=8reMA_HrrM8&list=PLgLaziU_e4WxVeOgq2DiCtdJ5jiLpZ91o)
+- 🔭 I launched my React JS course recently: [React JS Tutorial](https://www.youtube.com/watch?v=8reMA_HrrM8&list=PLgLaziU_e4WxVeOgq2DiCtdJ5jiLpZ91o)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 Next Goals: Contribute more for the community
-- ⚡ Fun fact: I love to think and singing with guiter
+- 🥅 Next Goals: Contribute more to the community
+- ⚡ Fun fact: I love to think and sing with a guitar
 
 ### Connect with me:
 
