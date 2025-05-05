@@ -6,7 +6,9 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Next Goals: Contribute more to the community
-- ⚡ Fun fact: I love to think and sing with a guitar
+- 🎯 Fun Fact #1: I love to think… sometimes too much — but that’s how ideas are born!
+- 🧠 Fun Fact #2: I believe every bug hides a lesson… and a story worth telling.
+- 💻 Fun Fact #3: I talk to computers more than people — and they usually listen. 
 
 ### Connect with me:
 
@@ -24,6 +26,3 @@
 - [ES6](https://www.youtube.com/watch?v=DYBpclZHQzc&list=PLgLaziU_e4Wzkj3fwb8neWMnPTzwRs2wk)
 - [Build Programming Logic with React JS](https://www.youtube.com/watch?v=1Dqe-GIa2U8&list=PLgLaziU_e4WzhTQ9WgfkWjHOM-6QwPJp2)
 - [React Router Dom](https://www.youtube.com/watch?v=eDGyGrlz8lo&list=PLgLaziU_e4Wx5uiAX8B1rXz3EHsUoulMW)
-
-
-[![Bulbul's GitHub stats](https://github-readme-stats.vercel.app/api?username=bulbulahmed9&count_private=true&show_icons=true&theme=dracula)](https://github.com/bulbulahmed9)
