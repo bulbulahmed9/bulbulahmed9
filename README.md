@@ -7,7 +7,7 @@
 
 ## 🚀 I'm a Developer & Content Creator!
 
-- 🔭 I **recently launched** my React JS course → [React JS Tutorial](https://www.youtube.com/watch?v=8reMA_HrrM8&list=PLgLaziU_e4WxVeOgq2DiCtdJ5jiLpZ91o)
+- 🔭 One of my favorite projects: React JS course → [React JS Tutorial](https://www.youtube.com/watch?v=8reMA_HrrM8&list=PLgLaziU_e4WxVeOgq2DiCtdJ5jiLpZ91o)
 - 🌱 I’m currently learning **everything** 🤣
 - 👯 I’m looking to **collaborate** with other content creators
 - 🥅 My next goal: **Contribute more to the community**
